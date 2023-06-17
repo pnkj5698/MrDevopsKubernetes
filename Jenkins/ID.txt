@@ -1,3 +1,0 @@
-Name- pnkj
-password - 12345
-URL - http://13.233.247.35:8080/
